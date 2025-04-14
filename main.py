@@ -3,7 +3,7 @@ import time
 import network
 import urequests
 import random 
-from config import THINGSPEAK_WRITE_KEY
+
 
 
 # Sensor Setup
